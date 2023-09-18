@@ -1,7 +1,7 @@
 
 // darkmood js.................
 let typed = new Typed('.typedText',{
-    strings : ['Web Developers...', 'Graphic Designer...'],
+    strings : ['Web Developers...', 'Front End Developer...'],
     typedSpeed: 100,
     backSpeed: 50,
     backDelay: 1000,

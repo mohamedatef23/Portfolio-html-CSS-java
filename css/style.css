@@ -354,6 +354,9 @@ header{
     justify-content: center;
     margin-bottom: 3rem;
 }
+.tabs .tab{
+    cursor: pointer;
+}
 .tabs .active{
     background: var(--color-primary);
     color: white;
@@ -453,6 +456,9 @@ form input, form textarea{
     border-radius: 10px;
     resize: none;
 }
+form button{
+    margin-bottom: 10px;
+}
 /* .................End Contact Section.................  */
 
 
@@ -466,6 +472,7 @@ footer{
     text-align: center;
     color: var(--color-white);
 }
+
 /* .................End Footer Section.................  */
 .phone-menu{
     display: none;
